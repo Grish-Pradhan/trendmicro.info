@@ -1,7 +1,3 @@
-Certainly! Below is the README content structured as a report in a `.md` file format, which you can save as `README.md` in your GitHub repository.
-
----
-
 # DNS Records Lookup
 
 ## Overview
@@ -131,6 +127,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or suggestions, feel free to reach out to me via [GitHub - Grish Pradhan](https://github.com/Grish-Pradhan).
 
----
-
-This is a neatly organized Markdown report that you can place in a `README.md` file for your GitHub repository. The structure is simple and direct, which makes it easy to follow.
